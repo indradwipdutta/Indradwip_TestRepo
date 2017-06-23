@@ -1,4 +1,4 @@
-
+##this is testing the upload function
 best <- function(state, outcome) {
   ## Read outcome data
   ## Check that state and outcome are valid

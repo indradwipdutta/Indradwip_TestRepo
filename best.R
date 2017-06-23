@@ -1,4 +1,4 @@
-##this is testing the upload function
+##this is testing the upload function though the csv to process is not here
 best <- function(state, outcome) {
   ## Read outcome data
   ## Check that state and outcome are valid
